@@ -1,0 +1,33 @@
+PHILOSOPHY
+
+ART
+I chose Mandala Art, since it is a geometric design or pattern which is balanced. It typically consists of concentric patterns with point of origin not necessarily being in the center of the frame.
+
+SHAPE
+The art lies withing a Circle as it appropriately frames the entire concentric pattern and highlights the point of origin as the openSUSE logo.
+
+ELEMENTS
+openSUSE LOGO
+The openSUSE logo lies at the heart of the Mandala pattern and creates a subtle focus on it. It is lightly framed inside a circular rim to separate its identity from the rest of the patterns.
+LOTUS
+The inner circle is adorned with Lotuses which is the national flower of India
+SAKURA
+The Sakura flowers are also known as the Japanese cherry, are one of the most popular spring trees of Japan
+GARUDA
+The Garuda (Eagle) is the national emblem of Indonesia and it is shown holding the hand fan with its wingspan
+HAND FAN
+The hand fan, being popularly used to symbolise China, crowns the top of the artwork
+SKY LANTERN
+There is a small septagon with a flame in the middle on the hand fan to signify a sky lantern. It is one of the celebrations popularly associated with Taiwan and Thailand
+CONNECTIVITY
+A ripple-like pattern towards the outer half of the hand fan is made to represent Wi-fi: something everyone will use to connect to the virtual summit.
+
+DESIGN ASPECTS
+SYMMETRY
+Due to the SUSE logo causing asymmetry in the overall design, the small lotus petal on the left bottom is made a bit larger for visual symmetry
+BALANCE
+The final design is kept simple with balanced negative spaces to create less noise.
+ORIENTATION
+One of the initial iterations had the entire logo rotated clockwise at 90 degrees since in that orientation SUSE logo looked symmetrical, but for the sake of improvement, it was changed
+PERSPECTIVE
+The varying widths and the alignment of the sakura cause a subtle one point perspective in the design and give it a depth
