@@ -11,3 +11,4 @@
 | 2017 | Tokyo, Japan | ![2017/asia-summit-2017-logo.png](2017/asia-summit-2017-logo.png) | Ramadoni Ashudi | https://news.opensuse.org/2017/09/13/design-selected-for-opensuse-asia-summit/ | https://news.opensuse.org/2017/07/14/opensuse-asia-summit-2017-logo-competition/ |
 | 2016 | Yogyakarta, Indonesia | ![2016/asia-summit-2016-logo.png](2016/asia-summit-2016-logo.png) | Ramadoni Ashudi | https://news.opensuse.org/2016/08/12/20067/ | https://news.opensuse.org/2016/06/30/opensuse-asia-summit-2016-logo-competition-announced/ |
 | 2015 | Taipei, Taiwan | ![2015/asia-summit-2015-logo.png](2015/asia-summit-2015-logo.png) | Kukuh Syafaat | https://news.opensuse.org/2015/10/02/we-have-a-logo-for-opensuse-asia-summit-2015/ | https://news.opensuse.org/2015/08/24/opensuse-asia-summit-2015-logo-design-contest-is-back/ |
+| 2014 | Beijing, China | ![2014/asia-summit-2014-logo.png](2014/asia-summit-2014-logo.png) | Weihua Du |  |  |
