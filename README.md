@@ -7,3 +7,4 @@
 | 2022 | Online | ![2022/asia-summit-2022-logo.png](2022/asia-summit-2022-logo.png) | Wisnu Adi Santoso |  | https://news.opensuse.org/2022/07/01/osa-cfl/ |
 | 2021 | Online | ![2021/asia-summit-2021-logo.png](2021/asia-summit-2021-logo.png) | Haruo Yoshino |  | https://news.opensuse.org/2021/05/31/osa-logo-competition-announcement/ |
 | 2019 | Bali, Indonesia | ![2019/asia-summit-2019-logo.png](2019/asia-summit-2019-logo.png) | Hervy Qurrotul | https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner/ | https://news.opensuse.org/2019/05/15/opensuse-asia-summit-2019-logo-competition/ |
+| 2018 | Taipei, Taiwan | ![2018/asia-summit-2018-logo.png](2018/asia-summit-2018-logo.png) | Herbanu Tri Sasongko |  | https://news.opensuse.org/2018/05/29/opensuse-asia-summit-2018-logo-competition/ |
