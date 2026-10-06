@@ -1,0 +1,15 @@
+Logo Design Philosophy: openSUSE.Asia Summit 2025
+
+1. Theme:
+   The logo embodies the essence of the openSUSE community and the 2025 host country, India.
+
+2. Visual Elements:
+   - The Lotus: A national symbol of India, rendered in a symmetrical, stylized design to reflect beauty, balance, and harmony.
+   - The Chameleon: The Geeko mascot, integrated with the lotus to signify openSUSE's presence and values.
+   - Typography: Serif-style font conveys a professional yet traditional Asian aesthetic.
+   - Color: Shades of green align with openSUSE branding, symbolizing growth, openness, and community.
+
+3. Message:
+   This logo celebrates open source collaboration in Asia while highlighting India's cultural significance as the summit’s host.
+
+License: CC-BY-SA 4.0
