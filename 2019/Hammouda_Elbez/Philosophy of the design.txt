@@ -1,0 +1,6 @@
+philosophy of the design:
+
+The design contains the OpenSUSE Logo on top of the Bali Map and a
+representation of a temple which is one of the known things in Bali.
+
+I have provided three pieces with different colors.
